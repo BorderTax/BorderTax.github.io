@@ -1,0 +1,11 @@
+title: BorderTax
+description: "BorderTax site"
+baseurl: ""        # leave empty for user/organization site
+url: "https://bordertax.github.io"
+
+# Use the Cayman theme
+theme: jekyll-theme-cayman
+
+# Optional: enable plugins (keep in sync with GitHub Pages supported plugins)
+plugins:
+  - jekyll-feed
